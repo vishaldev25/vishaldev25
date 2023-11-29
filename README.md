@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full stack web development.
 - 💞️ I’m looking to collaborate with developers.
 - 📫 How to reach me:
-- gmail: vish2512d@gmail.com
+- gmail: vdevv.995@gmail.com
 - insta: vishdev_
 
 <!---

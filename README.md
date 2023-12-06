@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with developers.
 - 📫 How to reach me:
 - gmail: vdevv.995@gmail.com
+- linkedin: www.linkedin.com/in/vishal-devulapelly
 - insta: vishdev_
 
 <!---

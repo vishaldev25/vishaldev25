@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - gmail: vdevv.995@gmail.com
 - linkedin: www.linkedin.com/in/vishal-devulapelly
-- insta: vishdev_
+- insta: https://www.instagram.com/vishdev_/
 
 <!---
 vishaldev25/vishaldev25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

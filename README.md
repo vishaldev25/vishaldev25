@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishal
+- 👋 Hi, I’m @Vishal Devulapelly
 - 👀 I’m interested in learning new things and improve my skills.
 - 🌱 I’m currently learning Full stack web development.
 - 💞️ I’m looking to collaborate with developers.
